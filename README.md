@@ -1,5 +1,8 @@
 # **Discounted Cash Flow Modelling💡- Using Excel** 
 
+![Screenshot 2024-08-22 170935](https://github.com/user-attachments/assets/c579381f-62d2-4ea0-b0ce-16629e0f037f)
+
+
 ## **Problem statement:**
 
 Your objective is to assess financial data to project future cash flows, calculate their current value, estimate the company's worth at a future point, and determine the present value of both future cash flows and the company's future worth to establish its overall valuation.
